@@ -10,6 +10,11 @@
   - 플로이드 워셜 알고리즘
 - [다이나믹 프로그래밍 Dynamic Programming](#다이나믹-프로그래밍-dynamic-programming)
 
+## React
+
+- redux
+- firebase firestore
+
 ---
 
 <br>
